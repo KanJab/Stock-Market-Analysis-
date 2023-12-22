@@ -1,0 +1,1 @@
+This project aims to create a statistical report that tracks real-time stock market data to analyze the performance of three major U.S. companies: Apple, Tesla, and Microsoft. The report also includes data on the S&P 500 index. Data from Yahoo Finance, covering daily stock values of these companies, has been recorded from 2018 to 2023.
